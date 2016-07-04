@@ -1,5 +1,4 @@
-# eso
-Educacióxn Secundaria Obligatoria
+# Educación Secundaria Obligatoria
 
 * [1º ESO](1/index.md)
 * [2º ESO](2/index.md)
